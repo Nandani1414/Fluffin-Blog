@@ -32,10 +32,10 @@ Welcome to **Fluffin Blog** – a cute and informative blog about **birds and th
 
 ## 📄 Pages (Live Preview)
 
-- 🏠 [Main Page](https://nandani1414.github.io/fluffin-blog/index.html)  
-- 🐣 [Home / Bird Gallery](https://nandani1414.github.io/fluffin-blog/home.html)  
-- 👤 [About Us](https://nandani1414.github.io/fluffin-blog/aboutus.html)  
-- 📬 [Contact Us](https://nandani1414.github.io/fluffin-blog/contactus.html)
+- 🏠 [Main Page](https://nandani1414.github.io/Fluffin-Blog/index.html)  
+- 🐣 [Home / Bird Gallery](https://nandani1414.github.io/Fluffin-Blog/home.html)  
+- 👤 [About Us](https://nandani1414.github.io/Fluffin-Blog/aboutus.html)  
+- 📬 [Contact Us](https://nandani1414.github.io/Fluffin-Blog/contactus.html)
 
 ---
 

@@ -41,7 +41,7 @@ Welcome to **Fluffin Blog** – a cute and informative blog about **birds and th
 
 ## 🌐 Full Site
 
-🔗 **[Visit Full Blog](https://nandani1414.github.io/fluffin-blog/)**  
+🔗 **[Visit Full Blog](https://nandani1414.github.io/Fluffin-Blog/)**  
 
 
 ---
